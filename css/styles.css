@@ -1,0 +1,13 @@
+.alfaSlab {
+  font-family: 'Alfa Slab One', cursive;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+.hero {
+  background-image: url("../images/waffle_burger2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
