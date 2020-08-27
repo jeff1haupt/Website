@@ -1,13 +1,23 @@
+body {
+  font-family: 'Mukta', sans-serif;
+}
+
 .alfaSlab {
-  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Neuton', serif;
+  font-weight: 800;
 }
 
 h1 {
-    font-size: 4em;
+  font-size: 7em;
 }
 
-.hero {
+.hero-body {
   background-image: url("../images/waffle_burger2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: top;
+}
+
+.columns {
+  min-height: 500px;
 }
