@@ -1,0 +1,8 @@
+[0828/090925.822:ERROR:process_memory_range.cc(62)] invalid range
+[0828/090925.830:ERROR:process_memory_range.cc(75)] read out of range
+[0828/090925.881:WARNING:process_subrange_reader.cc(76)] invalid read range 0x15d46000 + 0x28 (32)
+[0828/090925.882:WARNING:pe_image_reader.cc(113)] could not read crashpad info from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.135\chrome.dll
+[0828/090925.882:WARNING:process_subrange_reader.cc(76)] invalid read range 0x15d46000 + 0x28 (32)
+[0828/090925.882:WARNING:pe_image_reader.cc(113)] could not read crashpad info from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.135\chrome.dll
+[0828/090926.211:WARNING:process_subrange_reader.cc(76)] invalid read range 0x15d46000 + 0x28 (32)
+[0828/090926.212:WARNING:pe_image_reader.cc(113)] could not read crashpad info from C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.135\chrome.dll

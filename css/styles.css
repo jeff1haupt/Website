@@ -11,7 +11,12 @@ h1 {
   font-size: 7em;
 }
 
-.hero-body {
+p.sub-heading {
+  font-family: 'Charmonman', cursive;
+  margin-top: -1em;
+}
+
+.hero {
   background-image: url("../images/waffle_burger2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
